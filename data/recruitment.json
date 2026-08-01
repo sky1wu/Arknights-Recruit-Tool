@@ -1,7 +1,7 @@
 {
   "source": "https://raw.githubusercontent.com/MaaAssistantArknights/MaaAssistantArknights/dev-v2/resource/recruitment.json",
-  "generated_at": "2026-05-02T02:15:22.498462Z",
-  "operator_count": 158,
+  "generated_at": "2026-08-01T05:44:32.305178Z",
+  "operator_count": 160,
   "operators": [
     {
       "name": "CONFESS-47",
@@ -1123,6 +1123,16 @@
       ]
     },
     {
+      "name": "羽毛笔",
+      "level": 5,
+      "tags": [
+        "资深干员",
+        "输出",
+        "近卫干员",
+        "近战位"
+      ]
+    },
+    {
       "name": "苇草",
       "level": 5,
       "tags": [
@@ -1447,6 +1457,17 @@
         "近战位",
         "重装干员",
         "防护",
+        "高级资深干员"
+      ]
+    },
+    {
+      "name": "水月",
+      "level": 6,
+      "tags": [
+        "控场",
+        "特种干员",
+        "输出",
+        "近战位",
         "高级资深干员"
       ]
     },
